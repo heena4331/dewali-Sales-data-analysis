@@ -1,2 +1,2 @@
-# dewali-Sales-data-analysis
+# dewali-Sales-data-project
 end-to-end sales analysis
